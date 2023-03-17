@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-aila re ye hamu kaha aa gayi. 
 
 <!---
 amanShouts/amanShouts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h2> Hello Folks, I'm Aman Singh, an aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment </h2>
