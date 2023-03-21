@@ -72,7 +72,9 @@ class Skills extends SoftwareDeveloper {
   <a href="https://aman-shouts.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
-<div style="margin : 20px auto ; display : flex; justify-content : space-evenly ; align-items: center ; text-align : center">
+
+<div style="margin : 20px auto ">
+<div style=" display : flex; justify-content : space-evenly ; align-items: center">
 <!--   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nehalahmad11&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalahmad11&layout=compact" /> -->
  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
@@ -80,7 +82,7 @@ class Skills extends SoftwareDeveloper {
   <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
   <!-- <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanShouts&layout=compact" /> -->
 
-
+</div>
 </div>
 <br />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
