@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" /> -->
  js
 import SoftwareDeveloper from 'India';
+<pre>
 class Bio extends SoftwareDeveloper {
   name     = 'Aman Singh';
   title    = 'Aspiring Software Engineer' || 'MERN Stack Web Developer';
@@ -27,12 +28,13 @@ class Skills extends SoftwareDeveloper {
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
   ui = ['Chakra-Ui'];
 }
+</pre>
 
 <!-- https://github.com/nehalahmad11?tab=followers -->
 <!-- <img src="https://komarev.com/ghpvc/?username=nehalahmad11/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
 <br/>
 <p align="centre"> 
-<a href="https://github.com/amanShouts?tab=followers"><img src="https://img.shields.io/github/followers/shivraj32644?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/amanShouts?tab=followers"><img src="https://img.shields.io/github/followers/amanShouts?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 <p align="left">
