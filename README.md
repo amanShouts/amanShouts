@@ -73,17 +73,16 @@ class Skills extends SoftwareDeveloper {
 </p>
 <br />
 
-<div style="margin :auto ; text-align : center;">
-<div style=" display : flex; justify-content : center ; align-items: center">
+<div >
 <!--   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nehalahmad11&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalahmad11&layout=compact" /> -->
- <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
+ <img style="width=40% ; margin : auto "  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
   <!-- <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanShouts&layout=compact" /> -->
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
+  <img style="width=40% ; margin : auto "  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
   <!-- <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanShouts&layout=compact" /> -->
 
 </div>
-</div>
+
 <br />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
 <br />
