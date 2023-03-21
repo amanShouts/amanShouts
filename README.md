@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center" margin="0px">an aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment</h4>
 <h2 align="center">System.out.println("Hello World !!");</h2>
 <!-- <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" /> -->
- js
-import SoftwareDeveloper from 'India';
+
 <pre>
+import SoftwareDeveloper from 'India';
+
 class Bio extends SoftwareDeveloper {
   name     = 'Aman Singh';
   title    = 'Aspiring Software Engineer' || 'MERN Stack Web Developer';
