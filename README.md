@@ -74,7 +74,7 @@ class Skills extends SoftwareDeveloper {
 <br />
 
 <div style="margin :auto ; text-align : center;">
-<div style=" display : flex; justify-content : space-evenly ; align-items: center">
+<div style=" display : flex; justify-content : center ; align-items: center">
 <!--   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nehalahmad11&show_icons=true&theme=gradient" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalahmad11&layout=compact" /> -->
  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=amanShouts&show_icons=true&theme=gradient" />
